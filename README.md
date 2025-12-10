@@ -10,3 +10,7 @@ Dataset Utilizado: vehicles_us.csv
 - Histograma con la Distribución del Odómetro
 - Gráfico de Dispersión: Año y precio
 - Casillas para mostrar y ocultar la información.
+
+
+--- URL del Dashboard ---
+https://projecto-7-r5x0.onrender.com/
